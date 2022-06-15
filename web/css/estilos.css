@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7/06/2022, 04:37:30 PM
+    Author     : Uzías
+*/
+
+
+#container {
+    
+    padding-top: 20px;
+}
+
+
+.row, .col{
+    
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+}
+
+input {
+    max-width: 100px;
+}
+
+.card-body, #carta, #rata, .nav-item{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+#xd {
+    margin: 1rem;
+}
